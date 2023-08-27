@@ -1,8 +1,6 @@
 - Adhithya here.
 - Currently a student in CS.
 - Interested in Python, HTML Projects
-- Music psycho 🎶
-- Love black 🖤
 - Best project ever: https://github.com/G-Adhithya/3D-Game
 <!---
 G-Adhithya/G-Adhithya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
